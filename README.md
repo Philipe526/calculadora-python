@@ -1,4 +1,3 @@
-# calculadora-python
 def calculadora():
     print("=== Calculadora Simples ===")
     print("Operações disponíveis:")
