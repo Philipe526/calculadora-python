@@ -23,7 +23,7 @@
 ## E ela mostra o resultado logo abaixo.
 
 # Como usar
-## Execute o script com Python: ´´bash python calculadora.py´´
+## Execute o script com Python:´´bash python calculadora.py
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
