@@ -74,3 +74,4 @@ ttk.Button(frame, text="Calcular", command=calcular).grid(row=3, column=0, colum
 ttk.Label(frame, textvariable=resultado_var, font=("Segoe UI", 12, "bold")).grid(row=4, column=0, columnspan=2)
 
 root.mainloop()
+
