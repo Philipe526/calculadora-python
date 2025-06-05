@@ -1,29 +1,29 @@
 # Calculadora em Python
 # Uma calculadora simples de linha de comando feita em Python.
-## Funcionalidades
-# - Adição
-# - Subtração
-# - Multiplicação
-# - Divisão (com verificação de divisão por zero)
-# - raiz quadrada
-# - porcetagem 
-# - modulo 
-# - potência
-## O que essa calculadora faz?
-# Ela é um programa de computador que:
+# Funcionalidades
+## - Adição
+## - Subtração
+## - Multiplicação
+## - Divisão (com verificação de divisão por zero)
+## - raiz quadrada
+## - porcetagem 
+## - modulo 
+## - potência
+# O que essa calculadora faz?
+## Ela é um programa de computador que:
 
-# Abre uma janelinha na tela.
+## Abre uma janelinha na tela.
 
-# Deixa você digitar dois números.
+## Deixa você digitar dois números.
 
-# Você escolhe a operação (somar, dividir, raiz quadrada etc.).
+## Você escolhe a operação (somar, dividir, raiz quadrada etc.).
 
-# Depois, clica em “Calcular”.
+## Depois, clica em “Calcular”.
 
-# E ela mostra o resultado logo abaixo.
+## E ela mostra o resultado logo abaixo.
 
-## Como usar
-# Execute o script com Python: ´´bash python calculadora.py´´
+# Como usar
+## Execute o script com Python: ´´bash python calculadora.py´´
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
