@@ -25,3 +25,7 @@
 # Como usar
 
 ## abra a pasta "calculadora.py" e depois baixe o arquivo, logo em seguida abra o arquivo com um leitor de codigo e use a calculadora
+![passo 1](![Captura de tela 2025-06-04 223949](https://github.com/user-attachments/assets/d46fd198-3d54-4d97-a243-3f6b8cb3dc87)
+)
+
+
