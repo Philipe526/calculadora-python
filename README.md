@@ -1,1 +1,3 @@
-aqui vai o link para que você possa entender mais sobre nosso projeto https://youtu.be/mu-YabVdITs?feature=shared
+# link do video do yotube do projeto
+## acesse o link abaixo para visualização do projeto 👇
+https://youtu.be/mu-YabVdITs?feature=shared
